@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44047094-0674-4a04-b837-9e8a3164733d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SuperResAI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ESRGAN/LR/SSGMCE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESRGAN/LR/baboon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESRGAN/LR/comic.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESRGAN/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ESRGAN/test.py" afterDir="false" />
+    <list default="true" id="44047094-0674-4a04-b837-9e8a3164733d" name="Changes" comment="Super Resolution implemented">
+      <change afterPath="$PROJECT_DIR$/ESRGAN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ESRGAN" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Gaurav-Chaudhari-2003&quot;
-  }
-}</component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/xinntao/ESRGAN.git&quot;,
@@ -135,9 +122,20 @@
       <option name="presentableId" value="Default" />
       <updated>1722023912864</updated>
     </task>
+    <task id="LOCAL-00001" summary="Super Resolution implemented">
+      <option name="closed" value="true" />
+      <created>1722095969602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722095969602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Super Resolution implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Super Resolution implemented" />
   </component>
 </project>
